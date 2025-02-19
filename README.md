@@ -44,9 +44,9 @@ Servo Motors & Relays: Control traffic lights dynamically based on detected cong
 
 Wi-Fi & Mobile Hotspot Connectivity: Enables remote data transmission for cloud-based analytics.
 
-
-![vehicle_annotated_result](https://github.com/user-attachments/assets/19dab802-94ab-4a57-9201-35ecf5c35180)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/19dab802-94ab-4a57-9201-35ecf5c35180" alt="vehicle annotated result">
+</p>
 ---
 
 How It Works
